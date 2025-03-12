@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working as a DevOps Engineer.
-- 🌱 I’m currently working on AWS, GCP, Azure, Kubernetes and many more.
+- 🌱 Tech stacks I am wokring on are AWS, GCP, Azure, Kubernetes and many more.
 - 👯 I’m looking to collaborate on **any Cloud Infrastructure/ Cloud Solutions / Micro Services**.
 - 💬 Ask me about **Cloud Solutions / How to deploy your Application on Production, Staging, or any other environments. I provide deployment on all Cloud platforms including**:
   - AWS
