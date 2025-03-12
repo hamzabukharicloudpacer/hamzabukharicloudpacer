@@ -14,4 +14,4 @@
   - DigitalOcean
   - Heroku
 - 📫 How to reach me: **hamza.bukhari@cloudpacer.com**
-- 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/hamzabukhari949/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/hamzabukhari949/)
